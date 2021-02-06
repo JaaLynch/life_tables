@@ -1,3 +1,5 @@
 # life_tables
 
-Download and summarize SOA life tables
+Visualizing SOA life tables
+
+<img src="gif/movie.gif" width="900">
